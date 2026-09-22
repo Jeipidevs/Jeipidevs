@@ -31,9 +31,11 @@ Sou desenvolvedor de software e **Engenheiro de IA**, fundador da **JPStudio**. 
 ### 🚀 Sistemas em Produção & Casos Reais
 
 - 🏢 **VipHub (RE/MAX VIP I)** — CRM corporativo proprietário em produção diária ([crm.imobiliariavip.com](https://crm.imobiliariavip.com)), equipado com o assistente inteligente **Mentor VIP** (Anthropic Claude API), acelerando negociações e pesquisas para a equipe de corretores.
-- 🤖 **Agente SDR & Recrutadora ISA** — Agentes autônomos operando via WhatsApp 24/7 com máquinas de estado determinísticas e PydanticAI para triagem, qualificação de leads e recrutamento sem necessidade de intervenção humana.
+- 🤖 **Recrutadora Isa / Isa Hunter (RE/MAX VIP I)** — Agente de IA autônoma para WhatsApp com pipeline completo de triagem, qualificação e recrutamento de corretores 24/7 (PydanticAI + FastAPI).
+- 🎯 **Agentes SDR OS** — Motor inteligente de pré-vendas (SDR) no WhatsApp guiado por roteiros em YAML e máquinas de estados determinísticas para qualificação e agendamento automático.
 - 📜 **Painel Rubens Farina** — Plataforma condominial ([sistemasrubens.jpstudio.tech](https://sistemasrubens.jpstudio.tech)) com automação de atas e deliberações em documentos timbrados gerados por IA.
-- ⚡ **JPSTUDIO-ZAP & Ekoz** — Plataformas white-label multi-tenant para automação de atendimento e comunidade SaaS B2B com membros pagantes.
+- 👥 **Ekoz** — Plataforma SaaS de comunidade profissional e marketplace B2B ([ekoz.jpstudio.tech](https://ekoz.jpstudio.tech)), operando em produção com membros pagantes e gestão de experiências.
+- 💬 **JPSTUDIO-ZAP & CobraZap OS** — Soluções proprietárias de infraestrutura WhatsApp: plataforma white-label multi-tenant de atendimento e régua inteligente de notificações/cobrança financeira.
 
 ---
 
